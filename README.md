@@ -9,7 +9,7 @@ mobile genetic elements, and human bacterial pathogens, integrating their intera
 
 Install dependencies:
 
-conda install -c bioconda chopper minimap2 last centrifuge seqtk seqkit
+conda install -c bioconda chopper minimap2 last centrifuge seqtk seqkit \
 pip install argparse
 
 Prepare the database:
